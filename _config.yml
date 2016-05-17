@@ -1,0 +1,28 @@
+name: Shadcat
+favicon: null
+layout_spectrum: 0.05446851369924843
+typography_spectrum: 0.953020294662565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9329106763470918
+  lightness: 0.5772852981463075
+  saturation: 0.44391110935248435
+  rhythmicContrast: 0.8325309425126761
+purpose: []
