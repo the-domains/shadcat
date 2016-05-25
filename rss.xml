@@ -4,8 +4,15 @@
         <description><![CDATA[Video, Photos, and Voiceover to tell your story]]></description>
         <link>https://thegrid.ai/shadcat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 21:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 21:41:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shadcat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, I'm George; a seasoned storyteller with a knack for video, photography, and voiceovers. I started creating videos when I was 11 years old. After having several businesses hire me for small works, I decided to get back into video as a profession. Since May 2015, I have been helping small businesses with their marketing, content creation, and branding. ]]></title>
+            <description><![CDATA[<article><h1>Hello, I'm George; a seasoned storyteller with a knack for video, photography, and voiceovers. I started creating videos when I was 11 years old. After having several businesses hire me for small works, I decided to get back into video as a profession. Since May 2015, I have been helping small businesses with their marketing, content creation, and branding. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59d78983-6618-43bc-bde7-35778c91e5bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/shadcat/hello-im-george/index.html</link>
+            <guid isPermaLink="false">693e7135-7e0c-45b9-b868-c289e4f945a7</guid>
+            <pubDate>Wed, 25 May 2016 21:41:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Seattle Pinball Museum]]></title>
             <description><![CDATA[<article><h1>Seattle Pinball Museum</h1><p>Uploaded by George Kellas on 2016-04-27.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0d1fad15cf7f7306fd11d9d594ec451e02d5c75.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=zGPLskpWo_4</link>
             <guid isPermaLink="false">e63a7eec-bb22-4075-bee8-abaf110931fc</guid>
             <pubDate>Tue, 17 May 2016 21:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello, I'm George! </p>]]></description>
-            <link>https://thegrid.ai/shadcat/hello-im-george/index.html</link>
-            <guid isPermaLink="false">693e7135-7e0c-45b9-b868-c289e4f945a7</guid>
-            <pubDate>Tue, 17 May 2016 21:24:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
